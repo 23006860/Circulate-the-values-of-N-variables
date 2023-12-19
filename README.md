@@ -17,8 +17,8 @@ Using the slicing concept rotate the list
 ## Program:
 ```
 #Program to circulate N values.
-#Developed by: L.yagnesh kumar reddy
-#RegisterNumber:23004742
+#Developed by: rahul v
+#RegisterNumber:23006860
 def circulate():
 l=eval(input())
 n=int(input())
@@ -26,7 +26,8 @@ l=l[n:]+l[:n]
 print("After circulating the values are:",l)
 ```    
 ## Output:
-![Screenshot 2023-11-20 200829](https://github.com/23004742/Circulate-the-values-of-N-variables/assets/150319318/3b75d344-b16a-41a5-81dd-b199128dc97d)
+![image](https://github.com/23006860/Circulate-the-values-of-N-variables/assets/139841752/b18465ec-dc89-42e9-98f9-265b9334a642)
+
 
 ## Result:
 Thus the python program for circulating the values of n variables is excuted successfully
